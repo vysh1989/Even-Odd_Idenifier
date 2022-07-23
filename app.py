@@ -19,7 +19,7 @@ import pickle
 
 st.write("""
 # Even/Odd Identification App
-This app identifies the app as even or odd
+This app identifies the number as even or odd
 """)
 
 
